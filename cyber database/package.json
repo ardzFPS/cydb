@@ -1,0 +1,21 @@
+{
+  "name": "cydb",
+  "version": "2.1.0",
+  "description": "Cyber Botların Database'i",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "ARDA DEMİR DEMİRCİ",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cydb": "^2.1.3"
+  },
+  "keywords": [
+    "db",
+    "cyber",
+    "cydb",
+    "mybutton"
+  ]
+}
